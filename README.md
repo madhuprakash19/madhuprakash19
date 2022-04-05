@@ -4,11 +4,11 @@
 ![](https://komarev.com/ghpvc/?username=madhuprakash19)  
   
   
-- uses: Platane/snk@v1.1.0
+- name: generate github-contribution-grid-snake.svg
+  uses: Platane/snk/svg-only@v1.1.2
   with:
     github_user_name: ${{ github.repository_owner }}
-    gif_out_path: dist/github-snake.gif
-    svg_out_path: dist/github-snake.svg
+    svg_out_path: dist/github-contribution-grid-snake.svg
 
 <!--
 **madhuprakash19/madhuprakash19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
