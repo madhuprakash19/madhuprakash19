@@ -1,8 +1,7 @@
-### Hi there 👋, I'm Madhu Prakash
-<br />
-![Madhu prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhuprakash19&show_icons=true&theme=radical)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuprakash19&layout=compact)](https://github.com/madhuprakash19/github-readme-stats)<br />
-![](https://komarev.com/ghpvc/?username=madhuprakash19)
+### Hi there 👋, I'm Madhu Prakash  
+![Madhu prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhuprakash19&show_icons=true&theme=radical)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuprakash19&layout=compact)](https://github.com/madhuprakash19/github-readme-stats)  
+![](https://komarev.com/ghpvc/?username=madhuprakash19)  
 
 <!--
 **madhuprakash19/madhuprakash19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
