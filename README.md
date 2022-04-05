@@ -1,26 +1,10 @@
 ### Hi there 👋, I'm Madhu Prakash  
-![Madhu prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhuprakash19&show_icons=true&theme=radical)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuprakash19&layout=compact)](https://github.com/madhuprakash19/github-readme-stats)  
-![](https://komarev.com/ghpvc/?username=madhuprakash19)  
-  
-  
-- name: generate github-contribution-grid-snake.svg
-  uses: Platane/snk/svg-only@v1.1.2
-  with:
-    github_user_name: ${{ github.repository_owner }}
-    svg_out_path: dist/github-contribution-grid-snake.svg
+![Madhu prakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhuprakash19&show_icons=true&theme=radical)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhuprakash19&layout=compact)](https://github.com/madhuprakash19/github-readme-stats)
+<br>
+![](https://komarev.com/ghpvc/?username=madhuprakash19)
+<br>
+ ![](https://activity-graph.herokuapp.com/graph?username=madhuprakash19&theme=redical)
 
-<!--
-**madhuprakash19/madhuprakash19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
