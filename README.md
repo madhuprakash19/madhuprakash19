@@ -6,7 +6,7 @@
   
 - uses: Platane/snk@v1.1.0
   with:
-    github_user_name: ${{ github.madhuprakash19 }}
+    github_user_name: ${{ github.repository_owner }}
     gif_out_path: dist/github-snake.gif
     svg_out_path: dist/github-snake.svg
 
